@@ -1,5 +1,3 @@
-# php-ext
-
 ```
 docker compose build
 ./shell.sh
